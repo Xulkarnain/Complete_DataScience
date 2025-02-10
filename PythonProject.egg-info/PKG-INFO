@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: PythonProject
+Version: 0.0.1
+Author: Zulkarnain
+Author-email: darzulkarnain@gmail.com
+Requires-Dist: langchain
+Requires-Dist: numpy
+Requires-Dist: pandas
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
