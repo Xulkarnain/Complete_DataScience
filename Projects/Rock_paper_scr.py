@@ -54,3 +54,16 @@ play_again()
 
 """
 
+#efficient code
+
+choices = ["rock", "paper", "scissors"]
+
+while true:
+    user_choice = input("Enter rock, paper, or scissors: ").lower()
+    computer_choice = random.choice(choices)
+    print(f"Computer chose {computer_choice}")
+
+    if user_choice not in choices:
+        print("Invalid choice. Please try again")
+        continue
+    if 
