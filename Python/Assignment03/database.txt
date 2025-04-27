@@ -1,0 +1,24 @@
+Name1 : zulkarnain
+
+phone_no1 : 3423
+
+email1 : dar
+
+group1 : home
+
+Name1 : monal
+
+phone_no1 : 53254
+
+email1 : m
+
+group1 : office
+
+Name1 : zulkarnain
+
+phone_no1 : 4234
+
+email1 : dar
+
+group1 : home
+

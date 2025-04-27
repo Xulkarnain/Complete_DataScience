@@ -1,0 +1,8 @@
+We have to create a database.txt through file operations and store data like name , phone no , email address , group 
+then we need ability to search the data by name , the we need the ability to search the name by group , and at last we need ability delete the data 
+
+So we need 4 functions in total 
+1. for input of all details
+2. for input of name to search in database.txt
+3. for input of group to search in database.txt
+4. for input of to delete data from database
