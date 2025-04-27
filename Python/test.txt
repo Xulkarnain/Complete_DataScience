@@ -1,4 +1,0 @@
-New data written!
-Another line appended!
-Adding more data after reading!
-Appending and then reading!
