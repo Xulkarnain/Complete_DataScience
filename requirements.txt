@@ -3,3 +3,6 @@ pandas
 requests
 openpyxl
 matplotlib
+seaborn
+plotly
+nbformat
