@@ -1,0 +1,76 @@
+📦 What is a Database & Why Do We Need It?
+A database is an organized collection of data that allows for efficient storage, retrieval, and updating of information.
+
+You can store data in CSV or JSON files, but:
+
+These are file-based, not scalable
+
+Difficult to update, search, or manage relationships
+
+Poor for concurrent access or data security
+
+That’s where databases shine — they allow structured and efficient data operations, especially in large-scale or multi-user environments.
+
+🗃️ What is a Relational Database (RDBMS)?
+A Relational Database Management System (RDBMS) stores data in tables (rows and columns) — similar to an Excel sheet.
+
+Each table represents an entity (e.g., users, products), and relationships between tables are defined using keys (primary key, foreign key).
+
+Examples: PostgreSQL, MySQL, SQLite, Oracle
+
+There are also non-relational (NoSQL) databases — we’ll explore them later.
+
+🧠 Database Languages
+1️⃣ DDL – Data Definition Language
+Used to define the schema/structure of the database.
+
+👉 Tasks:
+
+Create tables, define columns and data types
+
+Add constraints (like primary keys)
+
+Manage schema-level objects
+
+✅ Common DDL Commands:
+
+CREATE – Create a new table or database
+
+ALTER – Modify existing schema
+
+DROP – Delete schema or table
+
+TRUNCATE – Remove all data, keep structure
+
+RENAME – Rename table or column
+
+2️⃣ DML – Data Manipulation Language
+Used to insert, modify, or retrieve data from the database.
+
+👉 Tasks:
+
+Insert new records
+
+Update or delete existing ones
+
+Query for specific data
+
+✅ Common DML Commands:
+
+SELECT – Retrieve data
+
+INSERT – Add new data
+
+UPDATE – Modify data
+
+DELETE – Remove data
+
+🗣️ What is SQL?
+SQL (Structured Query Language) is the standard language used to interact with RDBMS.
+It is not Turing complete, meaning it can’t perform all types of computations — it's not designed to replace general-purpose programming languages.
+
+But it's perfect for querying and managing structured data efficiently.
+
+💾 Tools We Installed:
+✅ PostgreSQL – A powerful, open-source RDBMS
+
