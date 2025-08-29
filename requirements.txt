@@ -6,3 +6,5 @@ matplotlib
 seaborn
 plotly
 nbformat
+scipy
+statsmodels
