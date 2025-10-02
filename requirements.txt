@@ -8,3 +8,5 @@ plotly
 nbformat
 scipy
 statsmodels
+missingno
+scikit-learn
