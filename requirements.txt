@@ -10,3 +10,4 @@ scipy
 statsmodels
 missingno
 scikit-learn
+feature_engine 
