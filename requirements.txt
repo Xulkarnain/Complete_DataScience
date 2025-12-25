@@ -15,3 +15,29 @@ category_encoders
 imblearn
 nltk
 wordcloud
+# Core NLP Libraries
+nltk
+spacy
+gensim
+
+# Machine Learning and Data Processing
+scikit-learn==1.5.2
+pandas==2.2.3
+numpy==2.1.3
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+wordcloud==1.9.3
+
+# Jupyter and Interactive Computing
+jupyter==1.1.1
+ipykernel==6.29.5
+ipywidgets==8.1.5
+
+# Additional Utilities
+tqdm==4.67.1
+requests==2.32.3
+
+# spaCy Language Model (to be downloaded separately)
+# Run: python -m spacy download en_core_web_sm
