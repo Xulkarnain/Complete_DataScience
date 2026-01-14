@@ -41,3 +41,12 @@ requests==2.32.3
 
 # spaCy Language Model (to be downloaded separately)
 # Run: python -m spacy download en_core_web_sm
+
+# Deep Learning Frameworks Tutorial - Requirements
+# Compatible with Python 3.11+
+
+# Deep Learning Frameworks
+tensorflow
+keras
+torch
+torchvision
