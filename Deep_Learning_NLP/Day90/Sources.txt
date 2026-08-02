@@ -1,0 +1,4 @@
+LSTMs : https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+
+Seq2Seq : https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
